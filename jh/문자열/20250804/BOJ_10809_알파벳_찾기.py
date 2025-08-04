@@ -15,4 +15,4 @@ for i in alpha_list:
             alpha_list[index_alpha] = -1
 
 for i in alpha_list:
-    print(f'{i} ', end = '')
+    print(f'{i} ', end = '') 
