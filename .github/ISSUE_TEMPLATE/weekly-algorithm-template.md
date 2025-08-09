@@ -3,7 +3,7 @@ name: Weekly Algorithm template
 about: 알고리즘 문제를 등록합니다.
 title: "[WEEKLY_QUEST]"
 labels: ''
-assignees: jxn-hxxn, hemu0-0, yj-yuee
+assignees: eoyeou, jxn-hxxn, hemu0-0, Sng-mnn, yj-yuee
 
 ---
 
