@@ -15,4 +15,4 @@ for i in words:
     if len(i) == len(set(i)): # 연속된 문자를 제거한 i와 중복을 모두 제거하는 set(i)와 비교
         cnt += 1
 
-print(cnt)
+print(cnt) 
