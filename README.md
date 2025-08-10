@@ -1,5 +1,5 @@
 # 🔥🔥 광주 1반 알고리즘 study 🔥🔥
-
+### [스터디 참여 달력보기](https://www.notion.so/24a7cac97625807cb474f3dc4a3fba8b?source=copy_link)
 
 ## 📅 스터디 운영 방식
 <br>
