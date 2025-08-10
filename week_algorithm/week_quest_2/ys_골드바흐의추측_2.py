@@ -34,4 +34,3 @@ for t in range(1, T+1):
         
         print(result1, result2)
 
-    
