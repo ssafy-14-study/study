@@ -25,3 +25,4 @@ for i in range(N):
             print(stack[-1])
         else:
             print(-1)
+# 파일올리기
