@@ -3,7 +3,7 @@ name: Question template
 about: 질문이 있으면 올려보아요
 title: "[QUESTION]"
 labels: ''
-assignees: eoyeou, jxn-hxxn, hemu0-0, Sng-mnn, yj-yuee
+assignees: eoyeou, hemu0-0, jxn-hxxn, Sng-mnn, yj-yuee
 
 ---
 
