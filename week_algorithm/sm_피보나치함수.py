@@ -1,7 +1,7 @@
 T = int(input())
 for case in range(T):
     N = int(input())
-    zero = [1, 0]
+    zero = [1, 0] #초기값 설정
     one = [0, 1]
 
     # N이 1 이하일 경우 바로 출력
