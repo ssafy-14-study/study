@@ -22,7 +22,7 @@ while queue:
         if not visited[near]:
             visited[near] = True
             parent[near] = cur
-            queue.append(cur)
+            queue.append(near)
 
 for i in range(2,n+1):
     print(parent[i])
